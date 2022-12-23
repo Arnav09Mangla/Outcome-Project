@@ -1,0 +1,38 @@
+
+h1 {
+    color: black;
+}
+
+* {
+    border: solid;
+}
+.header{
+background-color: goldenrod;
+display: flex;
+justify-content: flex-end;
+
+}
+
+.grid{
+display: flex;
+flex-wrap: wrap;
+justify-content: space-evenly;
+background-color: aqua
+
+}
+.footer{
+display: flex;
+justify-content: center;
+flex-wrap: wrap;
+background-color: black;
+
+
+}
+p.h2{
+text-align: center;
+color: red;
+flex-wrap: wrap;
+background-color: black;
+
+}
+
